@@ -144,7 +144,8 @@ Examples:
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="973" height="547" alt="Screenshot 2026-08-10 at 18 52 17" src="https://github.com/user-attachments/assets/1e02f827-0612-47c5-b33f-931dabac71ca" />
+
 
 
 ## Author
