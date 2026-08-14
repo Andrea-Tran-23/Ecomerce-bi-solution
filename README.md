@@ -14,13 +14,13 @@ The objective is to transform raw transaction data into actionable insights to s
 
 This project aims to answer the following business questions:
 
-- How is the overall sales performance over time?
-- Which product categories generate the highest revenue and profit?
-- Which product categories have potential development opportunities?
-- Which customer segments contribute the most value?
-- Which marketing channels are most effective?
-- What factors contribute to product returns?
-
+1. How is the overall sales performance over time?
+2. Which product categories have the best performance and potential development opportunities?
+3. Which customer segments contribute the most value?
+4. Which marketing channels are most effective?
+5. What factors contribute to product returns and customer churn rate?
+6. How promotional activities and discounts campaigns contribute to business performance?
+7. How the product returns affects to the overall business performance?
 
 ## Dataset Information
 
@@ -63,6 +63,8 @@ Key data transformation steps:
 
 
 ## Data Model
+
+<img width="1038" height="627" alt="Screenshot 2026-08-13 at 15 48 23" src="https://github.com/user-attachments/assets/c1912a3b-637e-49ad-8b6d-a2eeafcb3534" />
 
 The solution follows a star schema approach.
 
