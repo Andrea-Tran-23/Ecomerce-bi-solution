@@ -34,7 +34,7 @@ Market:
 United Kingdom
 
 
-The dataset contains:
+The dataset contains: 600.000+ records with 
 
 - Transaction details
 - Customer information
@@ -100,48 +100,47 @@ Important business measures include:
 
 Provides high-level business performance:
 
-- Revenue
-- Profit
-- Profit Margin
-- Sales trend
-- Category performance
+- Revenue: The business generated $10.72 million in total revenue.
+- Profit: Reached $4.32 million in total profit.
+- Profit Margin: 40.29% with 34,000 orders from Jan 2010 to Jun 2011.
+- Sales trend: peak season in March, May-Jun and November. November reached the highest point, generated 2 times higher in profit and revenue compared to the others 2 peak seasons .
+- Churn rate: 63.78% - relatively high, indicating a significant customer retention challenge.
+- Return rate: 10.03% - one in ten purchased products was returned.
 
 
 ### Sale Analysis
 
-Analyses:
-- Profit and Profit Margin by Product Categories
-- Total Order
-- Return rate
+- Revenue: Toys and Clothing are the strongest-performing categories, generating the highest sales volume.
+- Total Order: the monthly order pattern shows consistent seasonal trends.
+- Return rate: Toys, kitchen and Electronic have high return rate (higher than the overall return rate - 10.03%).
 
   
-### Customer Analysis
-
-Analyses:
-
-- Customer segments
-- Age groups
-- Marketing channels
-- Customer churn
-
-
 ### Product Analysis
 
-Analyses:
+- Product performance: strong product profitability, with an overall profit margin of approximately 40%.
+- Category contribution: Toys, Stationery and Clothing contribute the most in the number of products sold.
+- Cost performance: Toys generated the highest total return production cost due to its high return volume, while Clothing generated a similar level of return cost despite substantially fewer returned units.
 
-- Product performance
-- Category contribution
-- Return behaviour
+### Customer Analysis
 
+- Customer segments: The customer population is concentrated within the 21–60 age range, with the 21–40 age group representing the largest customer segment.
+- Age groups over-60s are the third-largest segment with $2.59M — 24% of revenue and  lowest churn of any age group (60.72%) - the most retainable segment.
+
+
+## Marketing Analysis:
+
+- Marketing channels: Marketing performance is relatively balanced across acquisition channels. Email generating the highest revenue (approximately $2.6M) and profit (approximately $1.0M).
+- Churn rate: Referral recording the highest churn rate (65.63%) and Email the lowest (61.17%).
+- Promotion and Discount apply: Profit margin is flat - 40.16% to 40.79% across all groups. Discounts and promotions not only cost nothing in profit margin but also contribute more in profit and revenue.
 
 ## Key Insights
 
-Examples:
-
 - Revenue reached $10.72M with a profit margin of 40.29%.
-- Clothing generated strong revenue despite lower sales volume, indicating higher product value.
-- Product returns represented 23.11% of sold products, creating significant operational costs.
-- Customer churn remains an important retention challenge.
+- Peak seasons: March, May-June and November.
+- Stationery as a growth opportunity, demonstrated a strong balance between sales volume, revenue generation, low production cost, and low returns, making it a potential category for further investment.
+- Kitchen requires further investigation as it records the second-highest number of returns despite having a lower sales volume.
+- Upper 60 age group is valuable customer segment with lowest churn rate and contribute the third highest to revenue.
+- More promotions and discounts should be run as positively contribute to profit and revenue.
 
 
 ## Dashboard Preview
