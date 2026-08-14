@@ -127,7 +127,7 @@ Provides high-level business performance:
 - Age groups over-60s are the third-largest segment with $2.59M — 24% of revenue and  lowest churn of any age group (60.72%) - the most retainable segment.
 
 
-## Marketing Analysis:
+### Marketing Analysis:
 
 - Marketing channels: Marketing performance is relatively balanced across acquisition channels. Email generating the highest revenue (approximately $2.6M) and profit (approximately $1.0M).
 - Churn rate: Referral recording the highest churn rate (65.63%) and Email the lowest (61.17%).
