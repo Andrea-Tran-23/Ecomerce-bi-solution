@@ -129,7 +129,8 @@ Provides high-level business performance:
 
 ### Customer Analysis
 
-<img width="1126" height="635" alt="Screenshot 2026-08-14 at 16 47 13" src="https://github.com/user-attachments/assets/05060513-b3c6-4ab4-a967-e39259254863" />
+<img width="869" height="492" alt="Screenshot 2026-08-15 at 14 58 21" src="https://github.com/user-attachments/assets/96769f6a-7647-4ad0-b581-bf3bc0645770" />
+
 
 - Customer segments: The customer population is concentrated within the 21–60 age range, with the 21–40 age group representing the largest customer segment.
 - Age groups over-60s are the third-largest segment with $2.59M — 24% of revenue and  lowest churn of any age group (60.72%) - the most retainable segment.
@@ -153,7 +154,21 @@ Provides high-level business performance:
 - More promotions and discounts should be run as positively contribute to profit and revenue.
 
 
-## Recommendations
+## Overall Recommendations
+
+The analysis suggests that the company does not have a fundamental revenue or profitability problem—its approximately $10.72M revenue, $4.32M profit, and 40.29% margin demonstrate a strong financial foundation.
+
+The greater opportunity is to improve the quality and sustainability of that performance. Management should prioritise customer retention and return reduction, while simultaneously scaling profitable product categories, leveraging high-performing marketing channels, and using targeted promotions and seasonal planning to generate incremental revenue.
+
+Strategic direction:
+
+Retain more customers → reduce avoidable costs → scale profitable categories → optimise marketing → generate sustainable revenue growth.
+
+
+## Detail Analysis Report
+
+[E-commerce analysis project - Thao Tran.pdf](https://github.com/user-attachments/files/31099317/E-commerce.analysis.project.-.Thao.Tran.pdf)
+
 
 ## Author
 
